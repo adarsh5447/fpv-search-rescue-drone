@@ -12,7 +12,7 @@ To develop a compact, agile FPV drone capable of entering confined or collapsed 
 
 ## 🧩 System Architecture
 
-![FPV Drone Architecture](images/drone-architecture.png)
+![FPV Drone Architecture](images/drone-architecture.jpeg)
 
 ---
 
