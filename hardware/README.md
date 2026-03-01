@@ -77,7 +77,7 @@ Provides real-time visual feed for SAR navigation.
 
 **AKK A1819 5.8GHz Long Range VTX**
 
-![VTX](../images/AKK A1819 5.8G Long Range VTX Switchable Transmitter.jpeg)
+![VTX](../images/AKK-A1819-5.8G-Long-Range-VTX-Switchable-Transmitter.jpeg)
 
 - 200/400/800/1000mW switchable power
 - Smart Audio supported
