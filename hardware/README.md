@@ -103,7 +103,7 @@ Transmits camera feed to FPV goggles.
 
 **Eachine EV800 FPV Goggles**
 
-![Goggles](../images/Eachine EV800 FPV Goggles - Black.jpeg)
+![Goggles](../images/Eachine-EV800-FPV-Goggles-Black.jpeg)
 
 - 5.8GHz analog receiver
 - Built-in diversity receiver
