@@ -50,7 +50,7 @@ Acts as the central processing unit managing stabilization and motor outputs.
 
 **CNHL Black Series V2.0 1500mAh 22.2V 6S LiPo**
 
-![Battery](../images/CNHL Black Series V2.0 1500mAh 22.2V 65 130C Lipo Battery.jpeg)
+![Battery](../images/CNHL-Black-Series-V2.0-1500mAh-22.2V-65-130C-Lipo-Battery.jpeg)
 
 - 1500mAh capacity
 - 22.2V (6S)
