@@ -22,7 +22,7 @@ This section provides a detailed overview of the complete hardware stack used in
 
 **SpeedyBee F405 V3 Mini (20x20 Stack)**
 
-![Flight Controller](../images/speedybee f405 v3 mini.jpeg)
+![Flight Controller](../images/speedybee-f405-v3-mini.jpeg)
 
 - STM32 F405 processor
 - Built-in Bluetooth
@@ -38,7 +38,7 @@ Acts as the central processing unit managing stabilization and motor outputs.
 ### 🌀 Motors  
 **Emax ECOII-2004-2400KV Brushless Motors (4x)**
 
-![Motor](../images/Emax ECOII-2004-2400KV Brushless Moto.jpeg)
+![Motor](../images/Emax-ECOII-2004-2400KV-Brushless-Moto.jpeg)
 
 - High thrust-to-weight ratio
 - Durable reinforced architecture
@@ -63,7 +63,7 @@ Acts as the central processing unit managing stabilization and motor outputs.
 
 **RunCam Racer Nano 4 (Analog FPV Camera)**
 
-![Camera](../images/runcam racer nano 4 fpv camera.jpeg)
+![Camera](../images/runcam-racer-nano-4-fpv-camera.jpeg)
 
 - Ultra-low latency analog output
 - High Dynamic Range
@@ -91,7 +91,7 @@ Transmits camera feed to FPV goggles.
 
 **FlySky FS-i6X 10CH 2.4GHz Transmitter**
 
-![Transmitter](../images/Flysky Fs-I6X 10Ch 2.4Ghz Rc Transmitter Controller with laB Receiver Upgrade Cable for Rc Boat Racing Drone.jpeg)
+![Transmitter](../images/Flysky-Fs-I6X-10Ch-2.4Ghz-Rc-Transmitter-Controller-with-la6B-Receiver-Upgrade-Cable-for-Rc-Boat-Racing-Drone.jpeg)
 
 - AFHDS2A protocol
 - Reliable long-range communication
@@ -118,7 +118,7 @@ Receives real-time analog transmission from AKK VTX.
 
 ### Drone Model
 
-![Drone Model](../images/drone model.jpeg)
+![Drone Model](../images/drone-model.jpeg)
 
 ### System Architecture Diagram
 
@@ -126,7 +126,7 @@ Receives real-time analog transmission from AKK VTX.
 
 ### Final Output Model
 
-![Output Model](../images/output real model.jpeg)
+![Output Model](../images/output-real-model.jpeg)
 
 ---
 
