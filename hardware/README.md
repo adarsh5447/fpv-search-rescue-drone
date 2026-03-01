@@ -8,8 +8,8 @@ This section provides a detailed overview of the complete hardware stack used in
 
 **SpeedyBee Bee35 Pro Frame**
 
-![Frame](../images/SpeedyBee Bee35 Pro Frame.jpeg)
-![FPV Drone Architecture](images/drone-architecture.jpeg)
+![Frame](../images/drone-architecture.jpeg))
+
 
 - 2mm carbon fiber plate thickness
 - Lightweight and impact-resistant
