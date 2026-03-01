@@ -8,7 +8,7 @@ This section provides a detailed overview of the complete hardware stack used in
 
 **SpeedyBee Bee35 Pro Frame**
 
-![Frame](images/SpeedyBee Bee35 Pro Frame.jpeg)
+![Frame](../images/SpeedyBee Bee35 Pro Frame.jpeg)
 
 - 2mm carbon fiber plate thickness
 - Lightweight and impact-resistant
